@@ -10,7 +10,7 @@ Navigation |
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+Various third-party services for data management proposed.
 
 ## Context
 
