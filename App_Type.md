@@ -1,10 +1,10 @@
 Navigation |
-[Application Type](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/App_Type) |
-[UI Framework](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/UI_Framework) |
-[Backend Language](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Backend_Language) |
-[Permissions](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Permissions) |
-[Data Storage](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Data_Storage) |
-[Additional](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Additional) |
+[Application Type](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/App_Type.md) |
+[UI Framework](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/UI_Framework.md) |
+[Backend Language](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Backend_Language.md) |
+[Permissions](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Permissions.md) |
+[Data Storage](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Data_Storage.md) |
+[Additional](https://github.com/zoegoodwin/CPRG303_ADR/blob/main/Additional.md) |
 
 # Application Type
 
