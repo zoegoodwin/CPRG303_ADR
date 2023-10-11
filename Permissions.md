@@ -16,7 +16,7 @@ Internet access, network status, and push notifications proposed.
 
 - **Internet Access:** Connect to the client's server to synchronize application data, update loyalty information, and manage orders.
 - **Network Status:** The application needs input on device connectivity so it can trigger the offline mode feature if needed.
-- **Push Notofications:** Will enable the end user's device to receive notifications about offers, products, and order updates.
+- **Push Notifications:** Will enable the end user's device to receive notifications about offers, products, and order updates.
 
 ## Decision
 
